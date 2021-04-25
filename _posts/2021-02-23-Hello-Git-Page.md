@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title : "Hello Git Page!"
 ---
 ## 블로그를 시작함에 앞서
